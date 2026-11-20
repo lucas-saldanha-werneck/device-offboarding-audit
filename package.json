@@ -4,6 +4,6 @@
   "description": "Cross-check an HR export against a device inventory and list laptops that need attention",
   "type": "module",
   "bin": { "device-audit": "src/cli.js" },
-  "scripts": { "test": "node --test "test/*.test.js"" },
+  "scripts": { "test": "node --test" },
   "license": "MIT"
 }
