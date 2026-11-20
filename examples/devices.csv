@@ -1,0 +1,9 @@
+serial,model,assigned_to,status
+SN1001,Laptop A 14,ana.lima@example.com,assigned
+SN1002,Laptop A 14,Bruno.Costa@Example.com,assigned
+SN1003,Laptop B 16,carla.souza@example.com,assigned
+SN1004,Laptop B 16,gabriel.rocha@example.com,assigned
+SN1005,Laptop A 14,,in_stock
+SN1005,Laptop A 14,,in_stock
+SN1006,Laptop B 16,,assigned
+SN1007,Laptop A 14,fabio.nunes@example.com,assigned

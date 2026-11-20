@@ -1,0 +1,9 @@
+{
+  "name": "device-offboarding-audit",
+  "version": "0.1.0",
+  "description": "Cross-check an HR export against a device inventory and list laptops that need attention",
+  "type": "module",
+  "bin": { "device-audit": "src/cli.js" },
+  "scripts": { "test": "node --test test/" },
+  "license": "MIT"
+}

@@ -1,0 +1,7 @@
+email,name,status,start_date,end_date
+ana.lima@example.com,Ana Lima,active,2025-03-01,
+bruno.costa@example.com,Bruno Costa,terminated,2024-06-10,2026-10-30
+carla.souza@example.com,Carla Souza,terminated,2023-01-15,2026-11-17
+diego.alves@example.com,Diego Alves,active,2026-11-24,
+elena.ruiz@example.com,Elena Ruiz,active,2026-11-02,
+fabio.nunes@example.com,Fabio Nunes,terminated,2022-05-05,
